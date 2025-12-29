@@ -1,0 +1,5 @@
+[dotenv@17.2.3] injecting env (11) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+[dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  override existing env vars with { override: true }
+Database connected.
+Database synced.
+Server running on port 3000
