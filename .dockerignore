@@ -1,0 +1,9 @@
+.git
+.gitignore
+*.md
+!INSTALACION_EASYPANEL.md
+.env
+.vscode
+.idea
+node_modules
+*.log
